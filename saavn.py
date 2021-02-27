@@ -6,7 +6,7 @@ import json
 import requests
 app = Client(
     ":memory:",
-    bot_token="1690303219:AAGlzjJdVDYCKL6Yr-v-1dYq-49mHfjzBPo",
+    bot_token="1690383939:A3huhuhh-1dYq-49mHfjzBPo",
     api_id=6,
     api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
 )
