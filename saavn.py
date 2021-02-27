@@ -77,7 +77,8 @@ async def send(_,message:Message):
             await m.delete()
             curr_user=None
             songs=[]
-    except :
+    except Exception as e:
+        print(e)
         songs=[]
         curr_user=None
 app.run()
