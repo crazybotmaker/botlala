@@ -1,3 +1,5 @@
+TgCrypto
+aiohttp
 pyrogram
 requests
 wget
