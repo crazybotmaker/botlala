@@ -6,9 +6,9 @@ import json
 import requests
 app = Client(
     ":memory:",
-    bot_token="1690383939:A3huhuhh-1dYq-49mHfjzBPo",
-    api_id=6,
-    api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
+    bot_token="5215408911:AAGbY_nVChtSd4w-3cYkzwaTzN9tEg71jb4",
+    api_id=15046785,
+    api_hash="bbe87b697e24c7fb868272d8361d90ea",
 )
 curr_user=None
 search_base_url = "https://www.jiosaavn.com/api.php?__call=autocomplete.get&_format=json&_marker=0&cc=in&includeMetaTags=1&query="
